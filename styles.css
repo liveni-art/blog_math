@@ -1,1 +1,13 @@
 /* css styles */
+/* Находим контейнер вывода ячейки, внутри которого есть график Plotly */
+.cell-output-display:has(.plotly-graph-div) {
+    display: flex;
+    justify-content: center; /* Центрируем по горизонтали */
+    margin: 2em 0;           /* Добавляем красивые отступы сверху и снизу */
+}
+
+/* Ограничиваем максимальную ширину, чтобы на больших мониторах график не был гигантским */
+.plotly-graph-div {
+    max-width: 800px; 
+    width: 100%;
+}

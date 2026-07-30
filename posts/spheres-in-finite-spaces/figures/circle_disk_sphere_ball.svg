@@ -1,0 +1,29 @@
+<svg width="680" height="420" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Сравнение окружности, круга, сферы и шара</title>
+<desc>Четыре панели: окружность и круг на плоскости (только граница vs граница+внутренность), сфера и шар в пространстве (та же пара, но в 3D)</desc>
+
+<rect width="680" height="420" fill="#FAFAF7"/>
+
+<rect x="40" y="40" width="280" height="160" rx="12" fill="none" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="60" y="66" font-family="DejaVu Serif, serif" font-size="16" font-weight="500" fill="#2C2C2A">Окружность</text>
+<text x="60" y="84" font-family="DejaVu Serif, serif" font-size="13" fill="#5F5E5A">только граница</text>
+<circle cx="180" cy="145" r="42" fill="none" stroke="#185FA5" stroke-width="2"/>
+
+<rect x="360" y="40" width="280" height="160" rx="12" fill="none" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="380" y="66" font-family="DejaVu Serif, serif" font-size="16" font-weight="500" fill="#2C2C2A">Круг</text>
+<text x="380" y="84" font-family="DejaVu Serif, serif" font-size="13" fill="#5F5E5A">граница + внутренность</text>
+<circle cx="500" cy="145" r="42" fill="#B5D4F4" stroke="#185FA5" stroke-width="2"/>
+
+<rect x="40" y="220" width="280" height="180" rx="12" fill="none" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="60" y="246" font-family="DejaVu Serif, serif" font-size="16" font-weight="500" fill="#2C2C2A">Сфера</text>
+<text x="60" y="264" font-family="DejaVu Serif, serif" font-size="13" fill="#5F5E5A">только поверхность</text>
+<circle cx="180" cy="330" r="46" fill="none" stroke="#0F6E56" stroke-width="2"/>
+<ellipse cx="180" cy="330" rx="46" ry="15" fill="none" stroke="#0F6E56" stroke-width="1" opacity="0.6"/>
+
+<rect x="360" y="220" width="280" height="180" rx="12" fill="none" stroke="#B4B2A9" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="380" y="246" font-family="DejaVu Serif, serif" font-size="16" font-weight="500" fill="#2C2C2A">Шар</text>
+<text x="380" y="264" font-family="DejaVu Serif, serif" font-size="13" fill="#5F5E5A">поверхность + внутренность</text>
+<circle cx="500" cy="330" r="46" fill="#9FE1CB" stroke="#0F6E56" stroke-width="2"/>
+<ellipse cx="500" cy="330" rx="46" ry="15" fill="none" stroke="#0F6E56" stroke-width="1" opacity="0.6"/>
+
+</svg>
