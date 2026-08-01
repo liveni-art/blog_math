@@ -139,7 +139,7 @@ L 157.323579 131.575853
 L 157.367402 123.286055 
 L 157.370323 112.093784 
 L 157.370323 112.093784 
-" clip-path="url(#pa37526ee0e)" style="fill: none; stroke: #1d9e75; stroke-width: 2.4; stroke-linecap: square"/>
+" clip-path="url(#pa37526ee0e)" style="fill: none; stroke: #378add; stroke-width: 2.4; stroke-linecap: square"/>
    </g>
    <g id="line2d_4">
     <defs>
@@ -153,10 +153,10 @@ C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0
 C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
 C -1.29895 2.236584 -0.663008 2.5 0 2.5 
 z
-" style="stroke: #1d9e75; stroke-width: 1.8"/>
+" style="stroke: #378add; stroke-width: 1.8"/>
     </defs>
     <g clip-path="url(#pa37526ee0e)">
-     <use xlink:href="#m75f2f9a215" x="157.370323" y="112.09375" style="fill: #fafaf7; stroke: #1d9e75; stroke-width: 1.8"/>
+     <use xlink:href="#m75f2f9a215" x="157.370323" y="112.09375" style="fill: #fafaf7; stroke: #378add; stroke-width: 1.8"/>
     </g>
    </g>
    <g id="text_1">
@@ -183,7 +183,7 @@ z
    </g>
    <g id="line2d_5">
     <g clip-path="url(#pa37526ee0e)">
-     <use xlink:href="#m75f2f9a215" x="39.589677" y="112.09375" style="fill: #fafaf7; stroke: #1d9e75; stroke-width: 1.8"/>
+     <use xlink:href="#m75f2f9a215" x="39.589677" y="112.09375" style="fill: #fafaf7; stroke: #378add; stroke-width: 1.8"/>
     </g>
    </g>
    <g id="text_2">
@@ -204,7 +204,7 @@ z
    </g>
    <g id="line2d_6">
     <g clip-path="url(#pa37526ee0e)">
-     <use xlink:href="#m75f2f9a215" x="98.48" y="53.203427" style="fill: #fafaf7; stroke: #1d9e75; stroke-width: 1.8"/>
+     <use xlink:href="#m75f2f9a215" x="98.48" y="53.203427" style="fill: #fafaf7; stroke: #378add; stroke-width: 1.8"/>
     </g>
    </g>
    <g id="text_3">
@@ -215,7 +215,7 @@ z
    </g>
    <g id="line2d_7">
     <g clip-path="url(#pa37526ee0e)">
-     <use xlink:href="#m75f2f9a215" x="98.48" y="170.984073" style="fill: #fafaf7; stroke: #1d9e75; stroke-width: 1.8"/>
+     <use xlink:href="#m75f2f9a215" x="98.48" y="170.984073" style="fill: #fafaf7; stroke: #378add; stroke-width: 1.8"/>
     </g>
    </g>
    <g id="text_4">
