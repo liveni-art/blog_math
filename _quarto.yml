@@ -9,7 +9,7 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/liveni-art/blog_math
+        href: https://github.com/liveni-art/blog-math
       - icon: telegram
         href: https://t.me/mablob
 format:
