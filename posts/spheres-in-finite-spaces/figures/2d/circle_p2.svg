@@ -238,7 +238,7 @@ z
      <use xlink:href="#DejaVuSerif-31" transform="translate(33.789062 0)"/>
     </g>
    </g>
-   <g id="text_5">
+   <g id="text_5" style="display: none">
     <!-- x -->
     <g style="fill: #3d3d3a" transform="translate(191.76 119.405) scale(0.12 -0.12)">
      <defs>
@@ -265,7 +265,8 @@ z
      <use xlink:href="#DejaVuSerif-Italic-78"/>
     </g>
    </g>
-   <g id="text_6">
+   <text x="191.76" y="119.405" style="fill: #3d3d3a; font-family: 'DejaVu Serif', serif; font-size: 12px; font-style: italic">x₁</text>
+   <g id="text_6" style="display: none">
     <!-- y -->
     <g style="fill: #3d3d3a" transform="translate(102.48 16.1475) scale(0.12 -0.12)">
      <defs>
@@ -317,6 +318,7 @@ L 100.48 30.764043
 z
 " style="fill: #b4b2a9; stroke: #b4b2a9; stroke-width: 0.9; stroke-linecap: round"/>
    </g>
+   <text x="102.48" y="16.1475" style="fill: #3d3d3a; font-family: 'DejaVu Serif', serif; font-size: 12px; font-style: italic">x₂</text>
   </g>
  </g>
  <defs>
@@ -325,4 +327,3 @@ z
   </clipPath>
  </defs>
 </svg>
-
