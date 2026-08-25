@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Об этом блоге",
     "section": "",
-    "text": "Этот блог является закономерным продолжением-расширением тг-канала математический.\nВопросы, идеи, замечания, предложения можно писать мне на почту или, например, в direct messages или комментарии вышеназванного тг-канала.\nЭтот блог сделан на движке Quarto."
+    "text": "Этот блог является закономерным продолжением-расширением тг-канала математический.\nВопросы, ответы, идеи, замечания, предложения можно писать мне на почту или, например, в direct messages или комментарии вышеназванного тг-канала.\nБлог сделан на движке Quarto."
   },
   {
     "objectID": "posts/spheres-in-finite-spaces/index.html",
@@ -81,7 +81,7 @@
     "href": "posts/spheres-in-finite-spaces/index.html#литература",
     "title": "Как выглядят сферы в конечномерных пространствах ?",
     "section": "Литература",
-    "text": "Литература\n[1] Канторович, Л.В.; Акилов, Г.П. — Функциональный анализ\n[2] Элементы теории функций и функционального анализа\n[3] Keith Ball — An Elementary Introduction to Modern Convex Geometry\n[4] Richard W. Hamming — The Art of Doing Science and Engineering\n[5] 3Blue1Brown — Understanding various beautiful and counterintuitive facts about the properties of spheres in higher dimensions. (видеолекция)\n[6] Munkres — Topology."
+    "text": "Литература\n[1] Канторович Л.В., Акилов Г.П. — Функциональный анализ\n[2] Колмогоров А.Н., Фомин С.В. — Элементы теории функций и функционального анализа\n[3] Keith Ball — An Elementary Introduction to Modern Convex Geometry\n[4] Richard W. Hamming — The Art of Doing Science and Engineering\n[5] 3Blue1Brown — Understanding various beautiful and counterintuitive facts about the properties of spheres in higher dimensions. (видеолекция)\n[6] Munkres — Topology."
   },
   {
     "objectID": "index.html",
