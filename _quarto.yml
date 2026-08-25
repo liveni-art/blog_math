@@ -5,6 +5,7 @@ website:
   description: "A blog built with Quarto"
   site-url: https://liveni-art.github.io/blog-math # you must change this appropriately for RSS feeds to work properly
   title: "Математический"
+  favicon: images/favicon.ico
   navbar:
     right:
       - about.qmd
