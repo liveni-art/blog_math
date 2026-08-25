@@ -1,19 +1,19 @@
 ---
-title: "About"
+title: "Об этом блоге"
 image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app/
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/liveni-art/blog_math
+    - icon: telegram
+      text: tg
+      href: https://t.me/mablob
 ---
 
-About this blog
+Этот блог является закономерным продолжением-расширением тг-канала [математический](https://t.me/mablob).
+
+Вопросы, идеи, замечания, предложения можно писать [мне на почту](mailto:dubinina.2015@yandex.ru) или, например, в [direct messages](https://t.me/mablob?direct) или комментарии вышеназванного тг-канала. 
+
+Этот блог сделан на движке [Quarto](https://quarto.org/). 

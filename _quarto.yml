@@ -4,20 +4,22 @@ project:
 website:
   description: "A blog built with Quarto"
   site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
-  title: "blog_math"
+  title: "Математический"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: bluesky
-        href: https://bsky.app/
+        href: https://github.com/liveni-art/blog_math
+      - icon: telegram
+        href: https://t.me/mablob
 format:
   html:
     theme:
       - cosmo
       - brand
     css: styles.css
+    toc: true
+    toc-title: "Содержание"
 
 
 
